@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Steven, and I'm a Full-stack Flutter developer, from Egypt.</h2>
+<h2 align="left">Hi 👋! I'm Steven, and I'm a Full-stack Flutter developer.</h2>
 
 ###
 
